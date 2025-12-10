@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
-**Uma ferramenta elegante para gerenciamento de pacotes no Linux com interface colorida**
+**Uma ferramenta elegante para gerenciamento de pacotes no Termux**
 
 </div>
 
@@ -29,7 +29,7 @@
 
 ```bash
 # Sistema Operacional
-Linux (Termux/Debian/Ubuntu) 
+Linux (Termux) 
 
 # Python 3.8+
 python3 --version
